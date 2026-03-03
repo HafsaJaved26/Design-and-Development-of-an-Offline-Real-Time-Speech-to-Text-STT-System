@@ -1,0 +1,1 @@
+# Design-and-Development-of-an-Offline-Real-Time-Speech-to-Text-STT-System
