@@ -1,0 +1,21 @@
+# Project Dependencies
+
+# Core Streamlit Framework
+streamlit>=1.36.0
+
+# Speech Recognition & Transcription
+openai-whisper>=20231117
+
+# Audio Processing
+pyaudio>=0.2.13
+numpy>=1.24.0
+
+# Deep Learning Framework (Required for Whisper)
+torch>=2.0.0
+
+# Additional Utilities
+python-dotenv>=1.0.0
+
+# Optional: For better performance and compatibility
+scipy>=1.10.0
+
